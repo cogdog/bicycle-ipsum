@@ -165,6 +165,4 @@ window.all_lines = [
 "'Where are we?'" ,
 "'Are you tired?' he asked." ,
 "They rode with a streaky, grey sea coming and going on their left hand."
-			];
-			
-			
+			];			
