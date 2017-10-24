@@ -1,5 +1,7 @@
 # Bicycle Ipsum
 
+*a gizmo by @cogdog | http://cog.dog* 
+
 ![](docs/images/bicycle-ipsum.jpg)
 
 A  lorem ipsum generator of stuff from the public domain books about bicycles. Because we always need more generators... [Take a ride now](https://cogdog.github.io/bicycle-ipsum/). Why? Well [there was a reason](http://cogdogblog.com/2017/10/bike-trail-lorem-ipsum/).
